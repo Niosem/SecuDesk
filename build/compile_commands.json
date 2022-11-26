@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/aristidebauchart/Documents/SecuDesk/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/WHAPX.dir/main.cpp.o -c /Users/aristidebauchart/Documents/SecuDesk/main.cpp",
+  "file": "/Users/aristidebauchart/Documents/SecuDesk/main.cpp"
+}
+]
